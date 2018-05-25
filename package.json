@@ -1,0 +1,16 @@
+{
+	"name": "templates",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/liyasthomas/templates.git"
+	},
+	"description": "My collection of reusable templates and assets by Liyas Thomas",
+	"author": "@liyasthomas",
+	"version": "1.0.0",
+	"devDependencies": {
+		"jshint": "^2.8.0"
+	},
+	"scripts": {
+		"test": "jshint travis.js"
+	}
+}
