@@ -17,4 +17,4 @@
 
 # <img src="https://raw.githubusercontent.com/liyasthomas/flappy/master/assets/images/favicon.png" alt="Flappy" width="32"> Flappy
 
-### Birds! Flappy birds everywhere! by [Liyas Thomas](https://github.com/liyasthomas)
+### Snakes! Snakes everywhere! by [Liyas Thomas](https://github.com/liyasthomas)

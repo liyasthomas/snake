@@ -2,9 +2,9 @@
 	"name": "templates",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/liyasthomas/templates.git"
+		"url": "https://github.com/liyasthomas/snake.git"
 	},
-	"description": "My collection of reusable templates and assets by Liyas Thomas",
+	"description": "Snake game",
 	"author": "@liyasthomas",
 	"version": "1.0.0",
 	"devDependencies": {
